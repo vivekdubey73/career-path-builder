@@ -7,6 +7,7 @@ import { cn } from "@/lib/utils";
 import { CheckCircle2, XCircle, RotateCw, ArrowRight, GraduationCap, Lock, ArrowLeft, Download, PlayCircle, Clock } from "lucide-react";
 import { LEARNING_PATHS, type Level } from "@/lib/learning-paths";
 import { Badge } from "@/components/ui/badge";
+import { LearningPathSection } from "@/components/LearningPathSection";
 
 type MCQ = { q: string; options: string[]; correct: number };
 
