@@ -18,18 +18,17 @@ const tabs = [
 
 const sideTabs = [
   { to: "/home", icon: Home, label: "Home" },
-  { to: "/roadmap", icon: Map, label: "Roadmap" },
-  { to: "/skills", icon: Sparkles, label: "Skills" },
-  { to: "/career-engine", icon: Brain, label: "Career Engine" },
   { to: "/career-assessment", icon: GraduationCap, label: "Career Assessment" },
-  { to: "/mentors", icon: Users, label: "Mentors" },
-  { to: "/mentor-panel", icon: LayoutDashboard, label: "Mentor Panel" },
+  { to: "/skills", icon: Sparkles, label: "Skills" },
+  { to: "/roadmap", icon: Map, label: "Roadmap" },
   { to: "https://rizeailab.lovable.app", icon: Code2, label: "Coding Lab" },
   { to: "/employability", icon: Briefcase, label: "Employability" },
   { to: "/resume", icon: FileText, label: "Resume" },
+  { to: "/career-engine", icon: Brain, label: "Career Engine" },
+  { to: "/mentors", icon: Users, label: "Mentors" },
   { to: "/blog", icon: Newspaper, label: "Blog" },
   { to: "/profile", icon: User, label: "Profile" },
-  { to: "/admin", icon: Building2, label: "Admin Panel" },
+  { to: "/mentor-panel", icon: LayoutDashboard, label: "Mentor Panel" },
   { to: "/settings", icon: Settings, label: "Settings" },
 ];
 
