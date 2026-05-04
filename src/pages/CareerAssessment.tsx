@@ -484,6 +484,8 @@ export default function CareerAssessment() {
                 })}
               </ol>
             </div>
+
+            <LearningPathSection />
           </div>
         )}
       </div>
